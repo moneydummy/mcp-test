@@ -1,0 +1,3 @@
+target/*
+target/classes/com/example/mcp/McpApplication.class
+target/test-classes/com/example/mcp/McpApplicationTests.class
